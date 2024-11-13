@@ -20,3 +20,6 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 rabbitmq
 bitnami/kafka
+postgres:14
+gitea/gitea:1.22.3
+mysql:8
