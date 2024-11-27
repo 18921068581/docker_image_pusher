@@ -15,6 +15,8 @@ minio/minio
 seataio/seata-server:1.5.0
 elasticsearch:8.11.0
 elasticsearch:7.12.1
+logstash:8.11.0
+logstash:7.12.1
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
