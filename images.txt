@@ -10,6 +10,7 @@ jumpserver/lion:v4.0.1-ce
 jumpserver/chen:v4.0.1-ce
 jumpserver/web:v4.0.1-ce
 kibana:8.11.0
+kibana:7.12.1
 minio/minio
 seataio/seata-server:1.5.0
 elasticsearch:8.11.0
