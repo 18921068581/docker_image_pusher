@@ -1,4 +1,5 @@
-nginx
+nginx:alpine3.20
+nginx:1.27.3
 mysql:8.0.35
 redis:7.0.12
 redis:7.0-bullseye
@@ -11,7 +12,8 @@ jumpserver/chen:v4.0.1-ce
 jumpserver/web:v4.0.1-ce
 kibana:8.11.0
 kibana:7.12.1
-minio/minio
+minio/minio:RELEASE.2024-11-07T00-52-20Z
+minio/minio:RELEASE.2024-10-29T16-01-48Z
 seataio/seata-server:1.5.0
 elasticsearch:8.11.0
 elasticsearch:7.12.1
@@ -22,8 +24,7 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-rabbitmq
-bitnami/kafka
+rabbitmq:4.0
 postgres:14
 gitea/gitea:1.22.3
 mysql:8
@@ -31,3 +32,8 @@ mysql:5.7
 prom/prometheus:v3.0.0
 prom/prometheus:v2.55.1
 grafana/grafana:11.3.1
+zookeeper:3.9.3
+zookeeper:3.8.4
+bitnami/kafka:3.9.0
+nacos/nacos-server:v2.4.3
+nacos/nacos-server:v1.4.8
