@@ -37,3 +37,4 @@ zookeeper:3.8.4
 bitnami/kafka:3.9.0
 nacos/nacos-server:v2.4.3
 nacos/nacos-server:v1.4.8
+jenkinsci/blueocean 1.25.7
