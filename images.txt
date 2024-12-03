@@ -1,3 +1,4 @@
+jenkinszh/jenkins-zh:2.396
 jenkinsci/blueocean:1.25.7
 nginx:alpine3.20
 nginx:1.27.3
