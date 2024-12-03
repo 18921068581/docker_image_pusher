@@ -1,5 +1,4 @@
-jenkinszh/jenkins-zh:2.396
-jenkinsci/blueocean:1.25.7
+jenkins/jenkins:lts-centos7-jdk8
 nginx:alpine3.20
 nginx:1.27.3
 mysql:8.0.35
